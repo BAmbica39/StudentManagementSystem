@@ -1,0 +1,38 @@
+.students-container {
+  padding: 2rem;
+  background-color: #f9f9f9;
+}
+
+.students-title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.add-button {
+  background-color: #1d4ed8;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.students-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.students-table th, .students-table td {
+  padding: 12px;
+  border: 1px solid #ddd;
+}
+
+.delete-btn {
+  background-color: #ef4444;
+  color: white;
+  padding: 6px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
